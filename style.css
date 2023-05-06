@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div {
+    text-align: center;
+    line-height: 24px;
+}
+p {
+    margin: 0 15rem;
+}
+p a{
+    margin: 10px;
+}
+span {
+    font-weight: bold;
+}
+
+.primeira-div{
+    background-color: #6eb8f5;
+    padding: 3rem;
+}
+.primeira-div p{
+    margin-top: 10px;
+}
+.primeira-div img{
+    width: 150px;
+}
+.segunda-div{
+    margin: 2rem;
+}
+.segunda-div h1 {
+    margin-top: 5rem;
+}
+.segunda-div span {
+    color: #0069c0;
+}
+.segunda-div h2 {
+    font-size: 20px;
+    color: #0069c0;
+}
+.segunda-div .segunda-img {
+    width: 400px;
+}
+.segunda-div p {
+    text-align: justify;
+}
+.terceira-div {
+    background-color: #318CE7;
+    color: white;
+    padding: 3rem;
+}
+.terceira-div h2 {
+    padding: 2rem;
+}
+.terceira-div p {
+    padding: 0 10rem 5rem 10rem;
+}
+.terceira-div span {
+    color: #edf222;
+}
+.terceira-div ul {
+    margin-left: auto;
+    margin-right: auto;
+    width: 5rem;
+}
+.terceira-div li {
+    text-align: justify;
+}
+.quarta-div  h2{
+    padding: 3rem;
+    color: #0069c0;
+}
+.quarta-div  img {
+    width: 350px;
+}
+.quarta-div p {
+    text-align: justify;
+    padding: 2rem;
+}
+.quarta-div span {
+    color: #0069c0
+}
+.quinta-div {
+    background-color: #318CE7;
+    color: white;
+}
+.quinta-div h2{
+    padding-top: 3rem;
+}
+.quinta-div iframe {
+    width: 700px;
+    height: 300px;
+    padding: 1rem;
+}
+.quinta-div .borda {
+    background-color: black;
+    border: 1px solid black;
+    padding: 10px 0 10px 0;
+    margin: 0 22rem;
+}
+.quinta-div span {
+    color: #edf222;
+}
+.quinta-div li {
+    color: #318CE7;
+    text-decoration: none;
+    margin: .6rem 38rem 0px 38rem;
+}
+.quinta-div ul {
+    padding-bottom: 4rem;
+}
+.quinta-div a {
+    background-color: white;
+    text-decoration: none;
+    padding: 1px 5px 1px 5px;
+    border-radius: 5px;
+}
+
